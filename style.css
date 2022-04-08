@@ -1,7 +1,15 @@
 * {
-  color: lime
+  text-align: center;
 }
 
-background {
-  background-color: black
+p {
+  color: lime;
+}
+
+h1 {
+  color: rgb(255, 153, 0);
+}
+
+body {
+  background-color: black;
 }
